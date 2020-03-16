@@ -1,5 +1,3 @@
-extern crate rand;
-
 fn main() {
     use rand::Rng;
 
