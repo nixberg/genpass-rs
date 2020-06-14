@@ -48,7 +48,8 @@ ARGUMENTS:
   <security-level>        The desired security level. (default: 128)
 
 OPTIONS:
-  -h, --help              Show help information."
+  -h, --help              Show help information.
+"
     );
     std::process::exit(0);
 }
