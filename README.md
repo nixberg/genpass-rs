@@ -5,8 +5,6 @@ Generates a lower case alphanumeric password for a given security level.
 ```console
 > genpass
 0c2vhemnywrn93aiwjdekxin7
-> genpass 64
-7f165ofsgbzfs
 > genpass --help
 USAGE: genpass [<security-level>]
 
